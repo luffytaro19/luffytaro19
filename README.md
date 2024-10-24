@@ -1,6 +1,6 @@
 ### Hi there 👋, My profile
 #### Programmer / Developer 
-![Programmer / Developer ]([https://joyboy-bot.pages.dev/images/welcome.gif](https://github.com/luffytaro19/luffytaro19/raw/refs/heads/main/IMG_4796.gif))
+![Programmer / Developer ](https://github.com/luffytaro19/luffytaro19/raw/refs/heads/main/IMG_4796.gif)
 
 Hello, this is my profile. I am a web developer and designer.
 
