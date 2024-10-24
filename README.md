@@ -8,7 +8,7 @@ Hello, this is my profile. I am a web developer and designer.
 - 😄 Pronouns: One Piece fan 
 
 ## Skills
-* 💻 BDFD, JS, HTML, CSS
+* 💻 BDFD, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E, ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Projects
 * https://joyboy-bot.pages.dev
