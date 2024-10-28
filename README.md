@@ -1,7 +1,7 @@
 ![Programmer / Developer ](https://github.com/luffytaro19/luffytaro19/raw/refs/heads/main/IMG_4796.gif)
 ## Hi there 👋, I'm luffytaro19_._
 #### Programmer / Developer 
-Hello, this is my profile. I am a web developer and designer.
+Hello, this is my profile. I am a Web developer and Bot developer.
 
 ## About
 - 🔭 I’m currently working on my own server.
